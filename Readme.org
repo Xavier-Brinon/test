@@ -1,0 +1,6 @@
+#+title: Readme of the package test
+#+author: Xavier Brinon
+#+date: [2024-05-25 Sat]
+#+startup: indent
+* Scope
+This module helps you say "hi 👋🏻" to people.
